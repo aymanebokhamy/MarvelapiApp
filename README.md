@@ -29,7 +29,7 @@ My chosen API for this project is The Marvel API
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://i.imgur.com/EFw9REW.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src= https://i.imgur.com/EFw9REW.gif title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with ScreenToGif
 
