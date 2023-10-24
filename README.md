@@ -1,35 +1,28 @@
-# MarvelapiApp
-
-# AND101 Project 5 - Choose Your Own API
+# AND101 Project 6 - CYOAPI Part 2: RecyclerView Edition
 
 Submitted by: Aymane Bokhamy
 
-Time spent: 4 hours spent in total
+Time spent: 3 hours spent in total
 
 ## Summary
 
-Marvel API is an android app that displays a random character with its name and a little description from the Marvel API
+MarvelApi is an Android app that displays a scrollable list of characters from the Marvel API showing 3 things: Image of the character, name, and description. 
 
-If I had to describe this project in three (3) emojis, they would be: 😊👌😁
+If I had to describe this project in three (3) emojis, they would be: 😁👌😊
 
 ## Application Features
 
 The following REQUIRED features are completed:
 
 - [x] Make an API call to an API of your choice using AsyncHTTPClient
-- [x] Display at least three (3) pieces of data for each API entry retrieved
-- [x] A working Button requests a new API entry and updates the data displayed
-
-
-## API Choice
-
-My chosen API for this project is The Marvel API
+- [x] Implement a RecyclerView to display a list of entries from the API
+- [x] Display at least three (3) pieces of data for each RecyclerView item
 
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src= https://i.imgur.com/EFw9REW.gif title='Video Demo' width='' alt='Video Demo' />
+<img src=https://i.imgur.com/GwbsMWJ.mp4 title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with ScreenToGif
 
