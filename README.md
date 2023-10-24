@@ -22,7 +22,7 @@ The following REQUIRED features are completed:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src= https://imgur.com/a/eJJ22gE title='Video Demo' width='' alt='Video Demo' />
+<img src= https://i.imgur.com/E2Plpr1.gif title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with ScreenToGif
 
