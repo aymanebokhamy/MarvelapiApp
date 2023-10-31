@@ -1,9 +1,19 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
+
     <!-- Base application theme. -->
     <style name="Base.Theme.MarvelAPI_App" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
+        <item name="android:textViewStyle">@style/MarvelTextViewStyle</item>
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
+    <!-- Custom TextView Style with Bangers Font -->
+    <style name="MarvelTextViewStyle" parent="android:Widget.TextView">
+        <item name="android:fontFamily">@font/bangers</item>
+        <item name="android:textColor">@color/marvel_red</item>
+        <item name="android:background">@color/marvel_black</item>
+    </style>
+
     <style name="Theme.MarvelAPI_App" parent="Base.Theme.MarvelAPI_App" />
+
 </resources>

@@ -10,14 +10,20 @@
         android:layout_height="200dp"/>
 
     <TextView
+        style="@style/MarvelTextViewStyle"
         android:id="@+id/textView1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="18sp"/>
+        android:textSize="18sp"
+        android:textColor="@color/marvel_red"
+        android:background="@color/marvel_black"/>
 
     <TextView
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="16sp"/>
+        android:textSize="16sp"
+        android:fontFamily="@font/bangers"
+        android:textColor="@color/marvel_red"
+        android:background="@color/marvel_black"/>
 </LinearLayout>
